@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ecommerce-flipkart-clone-master/static/css/main.314983d0.chunk.css",
+    "main.js": "/ecommerce-flipkart-clone-master/static/js/main.afe3ecb2.chunk.js",
+    "main.js.map": "/ecommerce-flipkart-clone-master/static/js/main.afe3ecb2.chunk.js.map",
+    "runtime-main.js": "/ecommerce-flipkart-clone-master/static/js/runtime-main.3f9d2d25.js",
+    "runtime-main.js.map": "/ecommerce-flipkart-clone-master/static/js/runtime-main.3f9d2d25.js.map",
+    "static/css/2.fb346933.chunk.css": "/ecommerce-flipkart-clone-master/static/css/2.fb346933.chunk.css",
+    "static/js/2.4a2bda21.chunk.js": "/ecommerce-flipkart-clone-master/static/js/2.4a2bda21.chunk.js",
+    "static/js/2.4a2bda21.chunk.js.map": "/ecommerce-flipkart-clone-master/static/js/2.4a2bda21.chunk.js.map",
+    "index.html": "/ecommerce-flipkart-clone-master/index.html",
+    "precache-manifest.2c0ce1e085474d8bb5967122d77c9286.js": "/ecommerce-flipkart-clone-master/precache-manifest.2c0ce1e085474d8bb5967122d77c9286.js",
+    "service-worker.js": "/ecommerce-flipkart-clone-master/service-worker.js",
+    "static/css/2.fb346933.chunk.css.map": "/ecommerce-flipkart-clone-master/static/css/2.fb346933.chunk.css.map",
+    "static/css/main.314983d0.chunk.css.map": "/ecommerce-flipkart-clone-master/static/css/main.314983d0.chunk.css.map",
+    "static/js/2.4a2bda21.chunk.js.LICENSE.txt": "/ecommerce-flipkart-clone-master/static/js/2.4a2bda21.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f9d2d25.js",
+    "static/css/2.fb346933.chunk.css",
+    "static/js/2.4a2bda21.chunk.js",
+    "static/css/main.314983d0.chunk.css",
+    "static/js/main.afe3ecb2.chunk.js"
+  ]
+}
